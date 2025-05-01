@@ -70,4 +70,4 @@ This Excel dashboard provides a visual summary of sales, profit, quantity sold, 
 > **Please do not copy or directly include this project in your resume or professional portfolio.**  
 > Instead, use it for reference and try creating your own dashboard to enhance your real skills.
 
--⭐ This EDA project was completed as part of my data analytics training/Journey And the EDA Project Done At <a href="https://futurevisioncomputers.com/">Future Vision Computer Institute</a>,Surat.
+-⭐ This Excel project was completed as part of my data analytics training/Journey And the Excel Project Done At <a href="https://futurevisioncomputers.com/">Future Vision Computer Institute</a>,Surat.
